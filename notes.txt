@@ -1,0 +1,7 @@
+=> Rodar:
+python manage.py runserver 127.0.0.1:8004
+
+=> Checar conexão com DB:
+python manage.py dbshell
+
+=> 
